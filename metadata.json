@@ -1,0 +1,6 @@
+{
+  "name": "Nghề Thủ Công Đông Nam Bộ (G03)",
+  "description": "Nền tảng số lưu trữ, tương tác và bảo tồn di sản Nghề thủ công truyền thống vùng Đông Nam Bộ - Mã đề tài G03: Gốm Biên Hòa & Lái Thiêu, Sơn mài Tương Bình Hiệp, Bánh tráng Trảng Bàng, Đúc đồng An Hội và các làng nghề tiêu biểu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
